@@ -1,0 +1,1 @@
+C:\Dev\Katas\Katas\FizzBuzz\bin\Debug\FizzBuzz.exe.config
