@@ -1,1 +1,6 @@
 C:\Dev\Katas\Katas\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Dev\Katas\Katas\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Dev\Katas\Katas\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Dev\Katas\Katas\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Dev\Katas\Katas\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Dev\Katas\Katas\FizzBuzz\obj\Debug\FizzBuzz.pdb
