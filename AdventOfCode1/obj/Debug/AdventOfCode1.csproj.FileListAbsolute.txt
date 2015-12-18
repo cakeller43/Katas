@@ -1,8 +1,8 @@
 C:\Dev\Katas\Katas\AdventOfCode1\bin\Debug\AdventOfCode1.exe.config
-C:\Dev\Katas\Katas\AdventOfCode1\bin\Debug\AdventOfCode1.exe
-C:\Dev\Katas\Katas\AdventOfCode1\bin\Debug\AdventOfCode1.pdb
 C:\Dev\Katas\Katas\AdventOfCode1\obj\Debug\AdventOfCode1.exe
 C:\Dev\Katas\Katas\AdventOfCode1\obj\Debug\AdventOfCode1.pdb
+C:\Dev\Katas\Katas\AdventOfCode1\obj\Debug\AdventOfCode1.csprojResolveAssemblyReference.cache
+C:\Dev\Katas\Katas\AdventOfCode1\bin\Debug\AdventOfCode1.exe
+C:\Dev\Katas\Katas\AdventOfCode1\bin\Debug\AdventOfCode1.pdb
 C:\Dev\Katas\Katas\AdventOfCode1\bin\Debug\nunit.framework.dll
 C:\Dev\Katas\Katas\AdventOfCode1\bin\Debug\nunit.framework.xml
-C:\Dev\Katas\Katas\AdventOfCode1\obj\Debug\AdventOfCode1.csprojResolveAssemblyReference.cache
