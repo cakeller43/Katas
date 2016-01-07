@@ -18,8 +18,14 @@ namespace AdventOfCode1
             //var foo = File.ReadAllText("");
             //Console.WriteLine(FindFirstBasement(input));
 
-            var rawInput = File.ReadAllLines("C:\\Dev\\Katas\\Katas\\AdventOfCode1\\TestFiles\\Day2Part1.txt");
-            AdventOfCodeDay2.RunDay2(rawInput);
+            //var rawInput = File.ReadAllLines("C:\\Dev\\Katas\\Katas\\AdventOfCode1\\TestFiles\\Day2Part1.txt");
+            //AdventOfCodeDay2.RunDay2(rawInput);
+
+            AdventOfCodeDay3 a = new AdventOfCodeDay3();
+            var rawInput = File.ReadAllText("C:\\Dev\\Katas\\Katas\\AdventOfCode1\\TestFiles\\Day3Part1.txt");
+            Console.WriteLine(a.RunDay3(rawInput));
+            AdventOfCodeDay3 a2 = new AdventOfCodeDay3();
+            Console.WriteLine(a2.RunDay3Part2(rawInput));
             Console.Read();
         }
 
