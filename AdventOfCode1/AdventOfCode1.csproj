@@ -48,10 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdventOfCodeDay2.cs" />
+    <Compile Include="AdventOfCodeDay3.cs" />
     <Compile Include="Tests\AdventOfCodeDay1Test.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\AdventOfCodeDay2Test.cs" />
+    <Compile Include="Tests\AdventOfCodeDay3Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -59,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="TestFiles\Day2Part1.txt" />
+    <Content Include="TestFiles\Day3Part1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
